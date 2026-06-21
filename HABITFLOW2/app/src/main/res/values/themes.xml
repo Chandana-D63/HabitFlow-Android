@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.HABITFLOW" parent="Theme.MaterialComponents.Light" />
+</resources>
