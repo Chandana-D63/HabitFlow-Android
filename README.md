@@ -345,7 +345,6 @@ During this project, I learned:
 
 Android Developer
 
-GitHub: https://github.com/Chandana-D63
 
 
 
